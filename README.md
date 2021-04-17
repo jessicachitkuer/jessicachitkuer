@@ -1,16 +1,14 @@
-### Hi there 👋
+<div>
+<body>
 
-<!--
-**jessicachitkuer/jessicachitkuer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+There's no finish line for innovation. :bulb: I work with my company's Innovation Space to help companies reinvent operations, business models, and their customer journeys. 
 
-Here are some ideas to get you started:
+<p> 👯 I’m passionate about public service and love collaborating on tech projects that benefits the public good. </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p> 💬 I'd love to chat with you!</p>
+
+<li><g-emoji class="g-emoji" alias=:link: fallback-src=>🔗 </g-emoji> <a href="https://www.jessicachitkuer.com/" rel="nofollow">Website</a></li>
+
+<li><g-emoji class="g-emoji" alias=:e-mail: fallback-src=>📩</g-emoji> <a href="mailto:jchitkuer@gmail.com" rel="nofollow">E-mail</a></li>
+
+</body> </div>
