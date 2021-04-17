@@ -1,7 +1,7 @@
 <div>
 <body>
 
-There's no finish line for innovation. :bulb: I work with my company's Innovation Space to help companies reinvent operations, business models, and their customer journeys. 
+There's no finish line for innovation. :bulb: I work with my company's innovation hub to help companies reinvent operations, business models, and their customer journeys. 
 
 <p> 👯 I’m passionate about public service and love collaborating on tech projects that benefits the public good. </p>
 
