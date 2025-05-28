@@ -1,7 +1,7 @@
 <div>
 <body>
 
-<p> 👯 I love collaborating on tech projects that benefit the public good. </p>
+<p> 👯 I love collaborating on technical projects that benefit the public good. </p>
 
 <p> 💬 I'd love to chat with you!</p>
 
