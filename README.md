@@ -13,7 +13,7 @@ Previously:
 
  Interested in: 
 - Tokenization + on-chain finance + the future of finance 
-- AI copilots for high-stakes decision making 
+- Building custom GPTs to do my homework (and other questionable optimizations)
 - Beautiful (interior) design 
 
 
