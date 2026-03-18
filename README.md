@@ -16,13 +16,12 @@ Previously:
 - Building custom GPTs to do my homework (and other questionable optimizations)
 - Beautiful (interior) design 
 
-## Currently building
+## 👯 Currently building
 • A valuations engine inspired by Damodaran-style DCF frameworks  
   – Automating cash flow modeling, discount rate construction, and sensitivity analysis  
   – Exploring how financial reasoning can be translated into programmable systems  
 
 
-<p>  👯 If you're building something ambitious, please reach out. </p>
 
 
 
