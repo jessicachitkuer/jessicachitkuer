@@ -6,14 +6,15 @@
 Currently SVP at BNY Mellon, focused on product commercialization and next-gen financial systems.
 
 Previously:
+- NYU Stern Tech MBA (applied AI, distributed systems, and LLM-based development; built models and deployed APIs and production systems using Python, Flask, Docker, and Kubernetes)
 - Morgan Stanley (VP, Strategy & E*TRADE integration)
 - Accenture Strategy
 - The White House
 
-<p> Interested in: </p>
-<p> • Tokenization + on-chain finance + the future of finance </p>
-<p> • AI copilots for high-stakes decision making </p>
-<p> • Beautiful (interior) design </p>
+ Interested in: 
+- Tokenization + on-chain finance + the future of finance 
+- AI copilots for high-stakes decision making 
+- Beautiful (interior) design 
 
 
 <p>  👯 If you're building something ambitious, please reach out. </p>
