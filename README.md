@@ -10,9 +10,10 @@ Previously:
 - Accenture Strategy
 - The White House
 
-Interested in:
-• Tokenization + on-chain finance
-• AI copilots for high-stakes decision making </p>
+<p> Interested in: </p>
+<p> • Tokenization + on-chain finance </p>
+<p> • AI copilots for high-stakes decision making </p>
+<p> • Beautiful design </p>
 
 
 <p>  👯 If you're building something ambitious — reach out. </p>
