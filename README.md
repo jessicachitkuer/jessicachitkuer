@@ -1,8 +1,6 @@
 <div>
 <body>
 
-<p> I love collaborating on technical projects that benefit the public good. </p>
-
 <p> Building at the intersection of financial infrastructure, digital assets, and AI.
 
 Currently SVP at BNY Mellon, focused on product commercialization and next-gen financial systems.
