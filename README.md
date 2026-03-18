@@ -6,7 +6,7 @@
 Currently SVP at BNY Mellon, focused on product commercialization and next-gen financial systems.
 
 Previously:
-- NYU Stern Tech MBA (applied AI, distributed systems, and LLM-based development; built models and deployed APIs and production systems using Python, Flask, Docker, and Kubernetes)
+- NYU Stern Tech MBA (applied machine learning, distributed systems, and LLM-based development; built models and deployed APIs and production systems using Python, Flask, Docker, and Kubernetes)
 - Morgan Stanley (VP, Strategy & E*TRADE integration)
 - Accenture Strategy
 - The White House
