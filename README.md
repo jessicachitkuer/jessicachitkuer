@@ -11,9 +11,9 @@ Previously:
 - The White House
 
 <p> Interested in: </p>
-<p> • Tokenization + on-chain finance </p>
+<p> • Tokenization + on-chain finance + the future of finance </p>
 <p> • AI copilots for high-stakes decision making </p>
-<p> • Beautiful design </p>
+<p> • Beautiful (interior) design </p>
 
 
 <p>  👯 If you're building something ambitious — reach out. </p>
