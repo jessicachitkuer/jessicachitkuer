@@ -17,6 +17,7 @@ Previously:
 - Beautiful (interior) design 
 
 
+
 <p>  👯 If you're building something ambitious, please reach out. </p>
 
 
