@@ -1,6 +1,6 @@
 Building at the intersection of financial infrastructure, digital assets, and AI.
 
-Currently SVP at BNY Mellon, focused on product commercialization and next-gen financial systems.
+Currently SVP at BNY.
 <br><br>
 
 **Previously:**  
